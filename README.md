@@ -1,5 +1,5 @@
 # Typescript and serverless boilerplate
-<br><br>
+
 
 ## Assets
 
